@@ -1,0 +1,2 @@
+运行环境：Qt5.7 + VS2015；
+源程序路径：为了保证构建目录和源文件目录为同级目录，将Projects文件夹拷贝到路径“E:\Workstation\visual studio 2015”下打开程序运行。
